@@ -4,3 +4,5 @@
 #### Formula haosa i plotovanje konvergencija
 #### Programiranje funkcije za računanje integrala sa različitim nivoima preciznosti
 #### Optimizovanje brute force algoritma za pronalaženje najkraće duži među nasumično kreiranim tačkama
+#### Montiholov paradoks
+#### Problem rodjendana k osoba u istoj prostoriji
