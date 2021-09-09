@@ -1,8 +1,8 @@
-### Mala matematička istraživanja za usavršavanje programiranja
-
-#### Monte Carlo simulacija broja pi
-#### Formula haosa i plotovanje konvergencija
-#### Programiranje funkcije za računanje integrala sa različitim nivoima preciznosti
-#### Optimizovanje brute force algoritma za pronalaženje najkraće duži među nasumično kreiranim tačkama
-#### Montiholov paradoks
-#### Problem rodjendana k osoba u istoj prostoriji
+### Small mathematical research to master programming
+#### Monte Carlo simulation of the number pi
+#### Chaos formula and ploting convergence
+#### Function for calculating integrals with different levels of precision
+#### Optimizing the brute force algorithm to find the shortest path among randomly created points
+#### Montichol's paradox
+#### Birthday problem k people in the same room
+#### Prime number generation in parallel
