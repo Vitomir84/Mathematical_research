@@ -6,3 +6,5 @@
 #### Montichol's paradox
 #### Birthday problem k people in the same room
 #### Prime number generation in parallel
+#### Bootstrapping function
+#### Area of intesected circles
