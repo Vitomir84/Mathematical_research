@@ -1,6 +1,6 @@
 ### Small mathematical research to master programming
 
-#### [Activation functions] (https://github.com/Vitomir84/Mathematical_research/blob/master/Activation_functions.ipynb)
+#### [Activation functions](https://github.com/Vitomir84/Mathematical_research/blob/master/Activation_functions.ipynb)
 
 In artificial neural networks, the activation function of a node defines the output of that node given an input or set of inputs. A standard integrated circuit can be seen as a digital network of activation functions that can be "ON" (1) or "OFF" (0), depending on input. This is similar to the linear perceptron in neural networks. However, only nonlinear activation functions allow such networks to compute nontrivial problems using only a small number of nodes, and such activation functions are called nonlinearities. Activation function.ipynb script will plot the most known activation functions (ReLu, Sigmoid, Tangens, Step, Arctan, Gaussian) and show how they work in Python. For some activation function, two different inputs will be used. 
 
@@ -9,7 +9,7 @@ In artificial neural networks, the activation function of a node defines the out
 The simulation works on the principle of generating random points in the square of the page r = 1.
 Based on the distance of the point of the center of the coordinate system, it is possible to determine whether the point is inside or outside imaginary quarters of a circle. How is a quarter of the surface of a circle r^2\(π*4), and area of square r^2, number  can be approximated as k/m * 4  where k is the number of points within a quarter of a circle and m is the total number of simulated random points. As the number of randomly generated points increases, it is possible to calculate the number π with greater precision at the expense of time efficiency.
 
-#### [Brownian motion] (https://github.com/Vitomir84/Mathematical_research/blob/master/Brownian%20motion%20(random%20walk).ipynb)
+#### [Brownian motion](https://github.com/Vitomir84/Mathematical_research/blob/master/Brownian%20motion%20(random%20walk).ipynb)
 
 This script shows the very important statistical concept of random walk in time series. It differes from white noise becease it has some memory, but also a randomness (memory of previous spot). Particles in luquid and in every matter actually behaves accorting to the random walk that is called Brownian motion. 
 We succed to have interesting plots of moving of the particles in reality. 
@@ -28,13 +28,13 @@ When we want to calculate the reliability of some statistical estimation, when t
 This is a simple equation  x_n+1_ = x_n * r * (1-x_n)  where x denotes e.g. the proportion of the current population (whether it has reached its size) and r represents the scaling and growth factor. This equation seems to prove that the future is branching out in several different unpredictable directions.
 John von Neumann used this algorithm for random number generation. For different values for parameters r and x, the outcomes becomes chaotic. 
 
-#### Function for calculating integrals with different levels of precision
+#### [Function for calculating integrals with different levels of precision](https://github.com/Vitomir84/Mathematical_research/blob/master/Integral.ipynb)
 
-Very simple functions for calculating integrals (area under curve). [link](https://github.com/Vitomir84/Mathematical_research/blob/master/Integral.ipynb)
+Very simple functions for calculating integrals (area under curve). 
 
-#### Optimizing the brute force algorithm to find the shortest path among randomly created points
+#### [Optimizing the brute force algorithm to find the shortest path among randomly created points](https://github.com/Vitomir84/Mathematical_research/blob/master/Najkraca%20duz.ipynb)
 
-This is an example of very simple optimisation technique to begginer. Very useful for understanding the meaning of optimisation [link](https://github.com/Vitomir84/Mathematical_research/blob/master/Najkraca%20duz.ipynb)
+This is an example of very simple optimisation technique to begginer. Very useful for understanding the meaning of optimisation
 
 #### [Monty Hall's paradox](https://github.com/Vitomir84/Mathematical_research/blob/master/Montiholov%20paradoks.ipynb)
 
