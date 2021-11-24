@@ -8,8 +8,7 @@ In artificial neural networks, the activation function of a node defines the out
 
 The simulation works on the principle of generating random points in the square of the page r = 1.
 Based on the distance of the point of the center of the coordinate system, it is possible to determine whether the point is inside or outside imaginary quarters of a circle. How is a quarter of the surface of a circle
-$$\frac{r^2\pi}{4}$$
-, and area of square 
+$$\frac{r^2\pi}{4}$$ , and area of square 
 $$r^2$$, number $\pi$ can be approximated as 
 $$\frac{k}{m} * 4 $$ 
 where k is the number of points within a quarter of a circle and m is the total number of simulated random points. As the number of randomly generated points increases, it is possible to calculate the number 
