@@ -7,26 +7,11 @@ In artificial neural networks, the activation function of a node defines the out
 #### [Monte Carlo simulation of the number pi](https://github.com/Vitomir84/Mathematical_research/blob/master/Approximation_of_pi_number.ipynb)
 
 The simulation works on the principle of generating random points in the square of the page r = 1.
-<<<<<<< HEAD
-Based on the distance of the point of the center of the coordinate system, it is possible to determine whether the point is inside or outside imaginary quarters of a circle. How is a quarter of the surface of a circle
-$$\frac{r^2\pi}{4}$$
-, and area of square 
-$$r^2$$, number $\pi$ can be approximated as 
-$$\frac{k}{m} * 4 $$ 
-where k is the number of points within a quarter of a circle and m is the total number of simulated random points. As the number of randomly generated points increases, it is possible to calculate the number 
-$$\pi$$ 
+Based on the distance of the point of the center of the coordinate system, it is possible to determine whether the point is inside or outside imaginary quarters of a circle. How is a quarter of the surface of a circle <img src="https://render.githubusercontent.com/render/math?math=\frac{r^2\pi}{4}">, and area of square 
+<img src="https://render.githubusercontent.com/render/math?math=r^2">, number <img src="https://render.githubusercontent.com/render/math?math=\pi"> can be approximated as <img src="https://render.githubusercontent.com/render/math?math=\frac{k}{m} * 4">
+where k is the number of points within a quarter of a circle and m is the total number of simulated random points. As the number of randomly generated points increases, it is possible to calculate the number <img src="https://render.githubusercontent.com/render/math?math=\pi"> 
 with greater precision at the expense of time efficiency.
-
-#### Chaos formula and ploting convergence
-#### Function for calculating integrals with different levels of precision
-#### Optimizing the brute force algorithm to find the shortest path among randomly created points
-#### Monty Hall's paradox
-#### Birthday problem k people in the same room
-#### Prime number generation in parallel
-#### Bootstrapping function
-#### Area of intesected circles
-=======
-Based on the distance of the point of the center of the coordinate system, it is possible to determine whether the point is inside or outside imaginary quarters of a circle. How is a quarter of the surface of a circle r^2\(π*4), and area of square r^2, number  can be approximated as k/m * 4  where k is the number of points within a quarter of a circle and m is the total number of simulated random points. As the number of randomly generated points increases, it is possible to calculate the number π with greater precision at the expense of time efficiency.
+Based on the distance of the point of the center of the coordinate system, it is possible to determine whether the point is inside or outside imaginary quarters of a circle. How is a quarter of the surface of a circle <img src="https://render.githubusercontent.com/render/math?math=\frac{r^2\pi}{4}">, and area of square <img src="https://render.githubusercontent.com/render/math?math=r^2">, number  can be approximated as k/m * 4  where k is the number of points within a quarter of a circle and m is the total number of simulated random points. As the number of randomly generated points increases, it is possible to calculate the number π with greater precision at the expense of time efficiency.
 
 #### [Brownian motion](https://github.com/Vitomir84/Mathematical_research/blob/master/Brownian%20motion%20(random%20walk).ipynb)
 
@@ -78,6 +63,3 @@ We did parallelisation of process of generating prime numbers.
 
 With this short example we want to illustrate need for optimisation and heruistics. Brute force approach in Traveller Salesman problem results in huge computational time, while simple greedy algorithm gives unbelievable improvement. This is NP-hard problem in operational research field.
 
-
-
->>>>>>> 8cfa37fb769100ccec85c14d53ad60bb2c39e748
