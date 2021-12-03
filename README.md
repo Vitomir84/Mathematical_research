@@ -29,7 +29,7 @@ When we want to calculate the reliability of some statistical estimation, when t
 
 #### [Chaos formula and ploting convergence](https://github.com/Vitomir84/Mathematical_research/blob/master/Formula%20haosa.ipynb)
 
-This is a simple equation  x_n+1_ = x_n * r * (1-x_n)  where x denotes e.g. the proportion of the current population (whether it has reached its size) and r represents the scaling and growth factor. This equation seems to prove that the future is branching out in several different unpredictable directions.
+This is a simple equation  <img src="https://render.githubusercontent.com/render/math?math=x_n+1_ = x_n * r * (1-x_n)">  where x denotes e.g. the proportion of the current population (whether it has reached its size) and r represents the scaling and growth factor. This equation seems to prove that the future is branching out in several different unpredictable directions.
 John von Neumann used this algorithm for random number generation. For different values for parameters r and x, the outcomes becomes chaotic. 
 
 #### [Function for calculating integrals with different levels of precision](https://github.com/Vitomir84/Mathematical_research/blob/master/Integral.ipynb)
