@@ -61,5 +61,5 @@ We did parallelisation of process of generating prime numbers.
 
 #### [Travelling Salesman problem](https://github.com/Vitomir84/Mathematical_research/blob/master/Traveling%20Salesman%20Problem.ipynb)
 
-With this short example we want to illustrate need for optimisation and heruistics. Brute force approach in Traveller Salesman problem results in huge computational time, while simple greedy algorithm gives unbelievable improvement. This is NP-hard problem in operational research field.
+With this short example we want to illustrate need for optimisation and heruistics. Brute force approach in Traveller Salesman problem results in huge computational time, while simple greedy algorithm gives unbelievable improvement. Some parts of code are used from book '40 algorithms every programmer should know'. This is NP-hard problem in operational research field.
 
