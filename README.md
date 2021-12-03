@@ -57,7 +57,7 @@ We need to check what is the probability that out of k people at least 2 people 
 
 #### [Prime number generation in parallel](https://github.com/Vitomir84/Mathematical_research/blob/master/Paralelizovanje_generisanja_prostih_brojeva.py)
 
-We did parallelisation of process of generating prime numbers. 
+We did parallelisation of process of generating prime numbers. This is Felix Bittman code from his very interesting book: Python 3 for Science and Eengineering Applications.
 
 #### [Travelling Salesman problem](https://github.com/Vitomir84/Mathematical_research/blob/master/Traveling%20Salesman%20Problem.ipynb)
 
